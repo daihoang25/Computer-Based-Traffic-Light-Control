@@ -1,0 +1,49 @@
+ÀÄmain
+   ÃÄMAIN  0/379  Ram=2
+   ³  ÃÄ@cinit1  (Inline)  Ram=0
+   ³  ÃÄ@MUL88  0/37  Ram=2
+   ³  ÃÄ@MUL88  0/37  Ram=2
+   ³  ÃÄ@MUL88  0/37  Ram=2
+   ³  ÃÄ@MUL88  0/37  Ram=2
+   ³  ÃÄ@PSTRINGC7_9600_62_63  0/88  Ram=4
+   ³  ÃÄLED_decoder1  0/19  Ram=2
+   ³  ³  ÃÄ@DIV88  0/21  Ram=3
+   ³  ³  ÃÄ@const724  0/14  Ram=0
+   ³  ³  ÃÄ@DIV88  0/21  Ram=3
+   ³  ³  ÀÄ@const724  0/14  Ram=0
+   ³  ÃÄLED_decoder2  0/19  Ram=2
+   ³  ³  ÃÄ@DIV88  0/21  Ram=3
+   ³  ³  ÃÄ@const724  0/14  Ram=0
+   ³  ³  ÃÄ@DIV88  0/21  Ram=3
+   ³  ³  ÀÄ@const724  0/14  Ram=0
+   ³  ÃÄOutToLed  0/21  Ram=0
+   ³  ³  ÃÄOut_byte  0/25  Ram=2
+   ³  ³  ÃÄOut_byte  0/25  Ram=2
+   ³  ³  ÃÄOut_byte  0/25  Ram=2
+   ³  ³  ÀÄOut_byte  0/25  Ram=2
+   ³  ÃÄ@delay_ms1  0/20  Ram=1
+   ³  ÃÄ@PSTRINGC7_9600_62_63  0/88  Ram=4
+   ³  ÃÄLED_decoder1  0/19  Ram=2
+   ³  ³  ÀÄ*
+   ³  ÃÄLED_decoder2  0/19  Ram=2
+   ³  ³  ÀÄ*
+   ³  ÃÄOutToLed  0/21  Ram=0
+   ³  ³  ÀÄ*
+   ³  ÃÄ@delay_ms1  0/20  Ram=1
+   ³  ÃÄ@PSTRINGC7_9600_62_63  0/88  Ram=4
+   ³  ÃÄLED_decoder1  0/19  Ram=2
+   ³  ³  ÀÄ*
+   ³  ÃÄLED_decoder2  0/19  Ram=2
+   ³  ³  ÀÄ*
+   ³  ÃÄOutToLed  0/21  Ram=0
+   ³  ³  ÀÄ*
+   ³  ÃÄ@delay_ms1  0/20  Ram=1
+   ³  ÃÄ@PSTRINGC7_9600_62_63  0/88  Ram=4
+   ³  ÃÄLED_decoder1  0/19  Ram=2
+   ³  ³  ÀÄ*
+   ³  ÃÄLED_decoder2  0/19  Ram=2
+   ³  ³  ÀÄ*
+   ³  ÃÄOutToLed  0/21  Ram=0
+   ³  ³  ÀÄ*
+   ³  ÀÄ@delay_ms1  0/20  Ram=1
+   ÀÄ_Interrupt_RDA  0/21  Ram=2
