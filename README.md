@@ -6,7 +6,7 @@ This project demonstrates the communication between a **PC (C# application)** an
 The system uses **UART serial communication** over virtual COM ports and controls LEDs through a **74HC595 shift register** and **7-segment displays**. The traffic light logic is simulated in **Proteus** and visualized in a **C# Windows Form application**.
 
 <p align="center">
-  <img src="images/Results.png" alt="System Overview" width="500"/>
+  <img src="Results.png" alt="System Overview" width="500"/>
 </p>
 
 ---
@@ -48,7 +48,7 @@ The system uses **UART serial communication** over virtual COM ports and control
    - Uses **74HC595** to expand outputs for LEDs.  
    - Sends feedback strings back to the PC.
    <p align="center">
-     <img src="images/Form.png" alt="C# Form Interface" width="500"/>
+     <img src="Form.png" alt="C# Form Interface" width="500"/>
    </p>
 
 3. **Proteus Simulation**  
@@ -56,5 +56,5 @@ The system uses **UART serial communication** over virtual COM ports and control
    - Verifies correct timing and light switching logic.
   
     <p align="center">
-     <img src="images/Proteus.png" alt="Proteus Simulation" width="500"/>
+     <img src="Proteus.png" alt="Proteus Simulation" width="500"/>
    </p>
